@@ -70,7 +70,7 @@ https://pganalyze.com/docs/explain - użyteczne informacje na temat tego co zwr�
 
 ### Zadania
 
-Zadaniem wszystkich grup jest analiza zapytań z użyciem polecenia EXPLAIN
+Zadaniem wszystkich grup jest analiza zapytań z użyciem polecenia `EXPLAIN`
 
 #### Grupa 1
 
